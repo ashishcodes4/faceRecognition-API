@@ -1,0 +1,19 @@
+{
+  "name": "facerecognition-api",
+  "version": "1.0.0",
+  "description": "API for faceReognition AI reactwebApp/\u001b[D\u001b[\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcodes4/faceRecognition-API.git"
+  },
+  "author": "Ashish Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishcodes4/faceRecognition-API/issues"
+  },
+  "homepage": "https://github.com/ashishcodes4/faceRecognition-API#readme"
+}
